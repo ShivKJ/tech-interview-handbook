@@ -104,6 +104,7 @@ For additional tips on BFS and DFS, you can refer to this [LeetCode post](https:
 - Graph with one or two nodes
 - Disjoint graphs
 - Graph with cycles
+- nodes with zero degree
 
 ## Recommended LeetCode questions
 
